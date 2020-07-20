@@ -1,4 +1,6 @@
   {
+    "gmaps":
+      {
         "address": "Address: 615 J St, San Diego, CA 92101, United States ",
         "category": "Seafood restaurant",
         "city": " San Diego",
@@ -20,5 +22,6 @@
         "street": "Address: 615 J St",
         "timetable": "[['Sunday', '11:30AM–9PM'], ['Monday', '11:30AM–9PM'], ['Tuesday', '11:30AM–9PM'], ['Wednesday', '11:30AM–9PM'], ['Thursday', '11:30AM–9PM'], ['Friday', '11:30AM–10PM'], ['Saturday', '11:30AM–10PM']]",
         "website": "http://watergrill.com"
-    }
+      }
+  }
     
